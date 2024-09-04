@@ -32,7 +32,7 @@ This Python script automates the process of searching for security rules in Tufi
 ## Configuration
 
 1. Set up environment variables for Tufin API access:
-   - `TUFN_URL`: URL of your Tufin instance (e.g., "https://tufin.fw.ray.com")
+   - `TUFN_URL`: URL of your Tufin instance (e.g., "https://tufin.example.com")
    - `TUFN_USERNAME`: Your Tufin API username
    - `TUFN_PASSWORD`: Your Tufin API password
 
