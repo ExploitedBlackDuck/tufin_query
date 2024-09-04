@@ -76,4 +76,4 @@ Contributions to improve the script are welcome. Please submit a pull request or
 
 ## License
 
-[Specify the license under which this script is distributed]
+MIT License
